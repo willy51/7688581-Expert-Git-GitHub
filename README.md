@@ -11,6 +11,7 @@ b
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
+Un serveur web comme XAMPP
 A définir
 
 ```
